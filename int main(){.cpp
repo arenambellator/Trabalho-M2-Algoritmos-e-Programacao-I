@@ -22,8 +22,6 @@ int main() {
                 srand(time(0));
                 r = (rand() % (100 - (-100) + 1)) + (-100);
                 
-                cout<<endl<<endl<<r<<endl<<endl<<endl;
-                
                 cout<<endl<<endl<<"  - Tente advinhar o número aleatório gerado (de -100 a 100). Para sair digite o número: 360";
                 
                 // Loop de tentativas: o jogador tem 30 chances
