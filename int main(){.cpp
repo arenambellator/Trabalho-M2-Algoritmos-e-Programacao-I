@@ -1,3 +1,6 @@
+// Vídeo explicativo:
+// https://youtu.be/4ayw9b_1fM8
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
